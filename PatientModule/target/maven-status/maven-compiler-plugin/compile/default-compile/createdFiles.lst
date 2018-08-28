@@ -1,0 +1,5 @@
+org\b3ds\feish\controller\Controller.class
+org\b3ds\feish\controller\GetController.class
+org\b3ds\feish\controller\PostController.class
+org\b3ds\feish\configuration\Configuration.class
+org\b3ds\feish\mongo\Patient.class
